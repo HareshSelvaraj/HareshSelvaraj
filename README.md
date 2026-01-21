@@ -1,22 +1,64 @@
-# 💫 About Me:
-🔭 Currently Working On<br><br>->E-Bin – An AI-based IoT system that performs automated waste segregation using image recognition.<br>->Smart Miner – A mobile application that provides real-time alerts to workers in open-pit mines for potential rockfall hazards.<br><br>👯 Looking to Collaborate On<br><br>->Open-source projects involving:<br>->Basic to intermediate Networking<br>->Cloud Computing (AWS-focused)<br>->AI/ML applications<br><br>🤝 Looking for Help With<br><br>E-Bin (Hardware Integration)<br>Since this is a hardware-heavy project, I’m seeking guidance on:<br><br>      ->Optimal hardware selection<br>      ->Sensor and camera integration<br>      ->Edge vs cloud inference decisions<br>      ->Overall system architecture<br><br>🌱 Currently Learning<br><br>Cisco Networking<br>AWS Cloud<br>Data Structures & Algorithms (DSA)<br><br>💬 Ask Me About<br><br>My journey so far in tech<br>Hackathons, projects, and learning through hands-on experimentation<br>AI + IoT system design at a student level<br><br>⚡ Fun Fact<br><br>My interest in computers started with my first laptop — a Dell Inspiron 15 with very limited specs. Pushing that machine to its limits forced me to understand system internals, hardware constraints, and how data flows inside a computer. That curiosity eventually turned into a strong interest in coding, networking, and systems engineering.
+# 💫 About Me
 
+### 🔭 Currently Working On
+- **E-Bin** – An AI-based IoT system for automated waste segregation using image recognition.
+- **Smart Miner** – A mobile application providing real-time rockfall alerts for open-pit mine workers.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haresh-selvaraj-a47516214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hareshswork@gmail.com) 
+### 👯 Looking to Collaborate On
+- Open-source projects involving:
+  - Networking (Basic to Intermediate)
+  - Cloud Computing (AWS-focused)
+  - AI/ML Applications
 
-# 💻 Tech Stack:
+### 🤝 Looking for Help With
+**E-Bin (Hardware Integration)**
+- Optimal hardware selection  
+- Sensor and camera integration  
+- Edge vs cloud inference decisions  
+- Overall system architecture  
+
+### 🌱 Currently Learning
+- Cisco Networking  
+- AWS Cloud  
+- Data Structures & Algorithms (DSA)
+
+### 💬 Ask Me About
+- My tech journey so far  
+- Hackathons and hands-on project building  
+- AI + IoT system design (student-level)
+
+### ⚡ Fun Fact
+My interest in computers started with a low-spec **Dell Inspiron 15**. Pushing it to its limits taught me system internals, hardware constraints, and data flow—sparking my passion for coding, networking, and systems engineering.
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haresh-selvaraj-a47516214)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hareshswork@gmail.com)
+
+---
+
+# 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HareshSelvaraj&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HareshSelvaraj&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HareshSelvaraj&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=HareshSelvaraj&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HareshSelvaraj&theme=gruvbox&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HareshSelvaraj&layout=compact&theme=gruvbox)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HareshSelvaraj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HareshSelvaraj&theme=radical&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=HareshSelvaraj&icon=0&color=0)](https://visitcount.itsvg.in)
