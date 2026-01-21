@@ -1,5 +1,33 @@
 # 💫 About Me:
-🔭 Currently Working On<br><br>->E-Bin – An AI-based IoT system that performs automated waste segregation using image recognition.<br>->Smart Miner – A mobile application that provides real-time alerts to workers in open-pit mines for potential rockfall hazards.<br><br>👯 Looking to Collaborate On<br><br>->Open-source projects involving:<br>->Basic to intermediate Networking<br>->Cloud Computing (AWS-focused)<br>->AI/ML applications<br><br>🤝 Looking for Help With<br><br>E-Bin (Hardware Integration)<br>Since this is a hardware-heavy project, I’m seeking guidance on:<br><br>      ->Optimal hardware selection<br>      ->Sensor and camera integration<br>      ->Edge vs cloud inference decisions<br>      ->Overall system architecture<br><br>🌱 Currently Learning<br><br>Cisco Networking<br>AWS Cloud<br>Data Structures & Algorithms (DSA)<br><br>💬 Ask Me About<br><br>My journey so far in tech<br>Hackathons, projects, and learning through hands-on experimentation<br>AI + IoT system design at a student level<br><br>⚡ Fun Fact<br><br>My interest in computers started with my first laptop — a Dell Inspiron 15 with very limited specs. Pushing that machine to its limits forced me to understand system internals, hardware constraints, and how data flows inside a computer. That curiosity eventually turned into a strong interest in coding, networking, and systems engineering.
+### 🔭 Currently Working On
+- **E-Bin** – An AI-based IoT system for automated waste segregation using image recognition.
+- **Smart Miner** – A mobile application providing real-time rockfall alerts for open-pit mine workers.
+
+### 👯 Looking to Collaborate On
+- Open-source projects involving:
+  - Networking (Basic to Intermediate)
+  - Cloud Computing (AWS-focused)
+  - AI/ML Applications
+
+### 🤝 Looking for Help With
+**E-Bin (Hardware Integration)**
+- Optimal hardware selection  
+- Sensor and camera integration  
+- Edge vs cloud inference decisions  
+- Overall system architecture  
+
+### 🌱 Currently Learning
+- Cisco Networking  
+- AWS Cloud  
+- Data Structures & Algorithms (DSA)
+
+### 💬 Ask Me About
+- My tech journey so far  
+- Hackathons and hands-on project building  
+- AI + IoT system design (student-level)
+
+### ⚡ Fun Fact
+My interest in computers started with a low-spec **Dell Inspiron 15**. Pushing it to its limits taught me system internals, hardware constraints, and data flow—sparking my passion for coding, networking, and systems engineering.
 
 
 ## 🌐 Socials:
